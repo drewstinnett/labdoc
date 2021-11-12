@@ -122,8 +122,8 @@ func recentlyAcceptedMergeRequests(limit int) ([]EnhancedEvent, error) {
 				return nil, err
 			}
 			e := EnhancedEvent{
-				Project: p,
-				Event:   event,
+				Project: *p,
+				Event:   *event,
 			}
 			retEnhancedEvents = append(retEnhancedEvents, e)
 			if len(retEnhancedEvents) == limit {
@@ -166,8 +166,8 @@ func recentEvents(eventType gitlab.EventTargetTypeValue, limit int) ([]EnhancedE
 				return nil, err
 			}
 			e := EnhancedEvent{
-				Project: p,
-				Event:   event,
+				Project: *p,
+				Event:   *event,
 			}
 			retEnhancedEvents = append(retEnhancedEvents, e)
 			if len(retEnhancedEvents) == limit {
@@ -188,6 +188,6 @@ func init() {
 }
 
 type EnhancedEvent struct {
-	Event   *gitlab.ContributionEvent
-	Project *gitlab.Project
+	Event   gitlab.ContributionEvent
+	Project gitlab.Project
 }

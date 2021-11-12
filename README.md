@@ -3,6 +3,19 @@
 Generate a README.md for GitLab similar to the way
 [markscribe](https://github.com/muesli/markscribe) does in GitHub.
 
+## Help
+
+### What fields are available in my items?
+
+Oh dude, would love do document this better. For now, you can use the
+`builtinDebug` filter though. Would love some help on making this more clear
+
+```go
+{{ . | builtinDebug }}
+```
+
+This will show a json representation of the object
+
 ## Extending with more Plugins
 
 We would love to have more plugins!
