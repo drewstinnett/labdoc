@@ -11,8 +11,8 @@ import (
 
 func TestParseRecentlyWatched(t *testing.T) {
 	file, err := os.Open("./testdata/rss.xml")
-	defer file.Close()
 	require.NoError(t, err)
+	defer file.Close()
 	fp := gofeed.NewParser()
 	feed, _ := fp.Parse(file)
 	entries := parseRSSWatched(feed, 10)
