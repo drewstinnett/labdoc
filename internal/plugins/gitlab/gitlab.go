@@ -5,6 +5,7 @@ import (
 	"html/template"
 	"os"
 
+	"github.com/apex/log"
 	"github.com/drewstinnett/labdoc/pkg/labdoc"
 	"github.com/xanzy/go-gitlab"
 )
@@ -20,9 +21,14 @@ func (p *plug) TemplateFunctions() (template.FuncMap, error) {
 	return templ, nil
 }
 
+func (p *plug) Examples() string {
+	return `test`
+}
+
 func recentlyCreatedProjects(limit int) ([]*gitlab.Project, error) {
 	git, me, err := newClient()
 	if err != nil {
+		log.Warnf("Error creating client: %v", err)
 		return nil, err
 	}
 
@@ -40,10 +46,8 @@ func recentlyCreatedProjects(limit int) ([]*gitlab.Project, error) {
 	for {
 		projects, resp, err := git.Projects.ListProjects(opts)
 		if err != nil {
+			log.Warnf("Got error: %v", err)
 			return nil, err
-		}
-		if resp.NextPage == 0 {
-			break
 		}
 		for _, project := range projects {
 			if project.CreatorID == me.ID {
@@ -52,6 +56,9 @@ func recentlyCreatedProjects(limit int) ([]*gitlab.Project, error) {
 					return retProjects, nil
 				}
 			}
+		}
+		if resp.NextPage == 0 {
+			break
 		}
 		opts.Page = resp.NextPage
 

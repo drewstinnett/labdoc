@@ -6,6 +6,7 @@ import (
 
 type Plugin interface {
 	TemplateFunctions() (template.FuncMap, error)
+	Examples() string
 }
 
 type Creator func() Plugin

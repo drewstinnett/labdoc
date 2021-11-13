@@ -25,7 +25,6 @@ import (
 	"fmt"
 	"html/template"
 	"io/ioutil"
-	"log"
 	"os"
 	"strings"
 
@@ -47,7 +46,6 @@ var generateCmd = &cobra.Command{
 
 		// Load All plugin data
 		for name, c := range labdoc.Plugins {
-			log.Println(name, c)
 			itemFunction, err := c().TemplateFunctions()
 			cobra.CheckErr(err)
 			for k, v := range itemFunction {
