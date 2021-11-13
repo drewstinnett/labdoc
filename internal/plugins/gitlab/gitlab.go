@@ -22,7 +22,17 @@ func (p *plug) TemplateFunctions() (template.FuncMap, error) {
 }
 
 func (p *plug) Examples() string {
-	return `test`
+	return `# Gitlab
+
+## Recent MRs
+{{ range gitlabRecentlyAcceptedMergeRequests 10}}
+{{ .Event.TargetTitle }} for {{ .Project.Name }}
+{{- end }}
+	
+## Recently Created Projects
+{{ range gitlabRecentlyCreatedProjects 10 }}
+[{{ .Name }}]({{ .WebURL }})
+{{- end }}`
 }
 
 func recentlyCreatedProjects(limit int) ([]*gitlab.Project, error) {

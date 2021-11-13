@@ -3,6 +3,25 @@
 Generate a README.md for GitLab similar to the way
 [markscribe](https://github.com/muesli/markscribe) does in GitHub.
 
+## Usage
+
+### Generate README.md
+
+Currently the rendered version of your template will be printed to stdout. Just
+direct it in to the target file like so:
+
+```bash
+labdoc generate example_templates/rss.tpl > README.md
+```
+
+### Show Examples
+
+Print out example usage, based on plugin data:
+
+```bash
+labdoc examples
+```
+
 ## Builtin Template Functions
 
 ### builtinDebug

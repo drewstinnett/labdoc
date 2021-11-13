@@ -1,0 +1,43 @@
+---
+builds:
+  - env:
+      - CGO_ENABLED=0
+    main: ./cli/
+    mod_timestamp: '{{ .CommitTimestamp }}'
+    ldflags:
+      - '-s -w'
+      - -X github.com/drewstinnett/labdoc/cli/cmd.date={{ .CommitTimestamp }}
+      - -X github.com/drewstinnett/labdoc/cli/cmd.version={{ .Tag }}
+      - -X github.com/drewstinnett/labdoc/cli/cmd.commit={{ .ShortCommit }}
+    flags:
+      - -trimpath
+    goos:
+      - darwin
+      - linux
+      - windows
+    goarch:
+      - amd64
+      - arm64
+    binary: 'labdoc'
+archives:
+  - format: tar.gz
+    name_template: 'labdoc-{{ .Version }}_{{ .Os }}_{{ .Arch }}'
+    replacements:
+      darwin: macOS
+checksum:
+  name_template: 'labdoc-{{ .Version }}_SHA256SUMS'
+  algorithm: sha256
+snapshot:
+  name_template: "{{ .Tag }}-snapshot"
+changelog:
+  skip: true
+
+brews:
+  - name: 'labdoc'
+    tap:
+      owner: drewstinnett
+      name: homebrew-tap
+      token: "{{ .Env.HOMEBREW_TAP_GITHUB_TOKEN }}"
+    description: "Generate README from a template, with some handy GitLab data"
+    homepage: "https://github.com/drewstinnett/labdoc"
+    license: BSD-2-Clause

@@ -23,57 +23,37 @@ package cmd
 
 import (
 	"fmt"
-	"html/template"
-	"io/ioutil"
-	"os"
-	"strings"
 
-	// Register all the template functions
-	_ "github.com/drewstinnett/labdoc/internal/plugins/all"
+	"github.com/apex/log"
 	"github.com/drewstinnett/labdoc/pkg/labdoc"
 	"github.com/spf13/cobra"
 )
 
-// generateCmd represents the generate command
-var generateCmd = &cobra.Command{
-	Use:   "generate template_file",
-	Short: "Generate README.md",
-	Args:  cobra.ExactArgs(1),
+// examplesCmd represents the examples command
+var examplesCmd = &cobra.Command{
+	Use:     "examples",
+	Short:   "Print plugin examples",
+	Aliases: []string{"example", "e"},
 	Run: func(cmd *cobra.Command, args []string) {
-		templateIn, err := ioutil.ReadFile(args[0])
-		cobra.CheckErr(err)
-
-		allFunctions := template.FuncMap{}
-
-		// Load All plugin data
 		for name, c := range labdoc.Plugins {
-			itemFunction, err := c().TemplateFunctions()
-			cobra.CheckErr(err)
-			for k, v := range itemFunction {
-				funcName := fmt.Sprintf("%v%v", name, strings.Title(k))
-				allFunctions[funcName] = v
-			}
+			log.Infof("Examples for %v plugin", name)
+			examples := c().Examples()
+			fmt.Println(examples)
+			fmt.Println()
 		}
-
-		cobra.CheckErr(err)
-		tpl, err := template.New("tpl").Funcs(allFunctions).Parse(string(templateIn))
-		cobra.CheckErr(err)
-		out := os.Stdout
-		err = tpl.Execute(out, nil)
-		cobra.CheckErr(err)
 	},
 }
 
 func init() {
-	rootCmd.AddCommand(generateCmd)
+	rootCmd.AddCommand(examplesCmd)
 
 	// Here you will define your flags and configuration settings.
 
 	// Cobra supports Persistent Flags which will work for this command
 	// and all subcommands, e.g.:
-	// generateCmd.PersistentFlags().String("foo", "", "A help for foo")
+	// examplesCmd.PersistentFlags().String("foo", "", "A help for foo")
 
 	// Cobra supports local flags which will only run when this command
 	// is called directly, e.g.:
-	// generateCmd.Flags().BoolP("toggle", "t", false, "Help message for toggle")
+	// examplesCmd.Flags().BoolP("toggle", "t", false, "Help message for toggle")
 }

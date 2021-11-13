@@ -17,7 +17,10 @@ func (p *plug) TemplateFunctions() (template.FuncMap, error) {
 }
 
 func (p *plug) Examples() string {
-	return `test`
+	return `## Recent Reviews
+{{ range rssListFeed "https://www.rogerebert.com/feed" 10}}
+[{{ .Title }}]({{ .Link }}) {{ .PublishedParsed | builtinAgo }}
+{{- end }}`
 }
 
 func listFeed(url string, limit int) ([]*gofeed.Item, error) {
