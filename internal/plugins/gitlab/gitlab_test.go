@@ -33,6 +33,7 @@ func TestRecentlyCreatedProjects(t *testing.T) {
 	}))
 	defer srv.Close()
 	os.Setenv("GITLAB_URL", srv.URL)
+	os.Setenv("GITLAB_TOKEN", "token")
 
 	p, err := recentlyCreatedProjects(5)
 	require.NoError(t, err)
