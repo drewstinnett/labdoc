@@ -69,3 +69,20 @@ dockers:
   - "--label=org.opencontainers.image.source={{.GitURL}}"
   - "--platform=linux/arm64"
   goarch: arm64
+docker_manifests:
+- name_template: 'brewerdrewer/labdoc:{{ .Tag }}'
+  image_templates:
+  - 'brewerdrewer/labdoc:{{ .Tag }}-amd64'
+  - 'brewerdrewer/labdoc:{{ .Tag }}-arm64'
+- name_template: 'ghcr.io/drewstinnett/labdoc:{{ .Tag }}'
+  image_templates:
+  - 'ghcr.io/drewstinnett/labdoc:{{ .Tag }}-amd64'
+  - 'ghcr.io/drewstinnett/labdoc:{{ .Tag }}-arm64'
+- name_template: 'brewerdrewer/labdoc:latest'
+  image_templates:
+  - 'brewerdrewer/labdoc:{{ .Tag }}-amd64'
+  - 'brewerdrewer/labdoc:{{ .Tag }}-arm64'
+- name_template: 'ghcr.io/drewstinnett/labdoc:latest'
+  image_templates:
+  - 'ghcr.io/drewstinnett/labdoc:{{ .Tag }}-amd64'
+  - 'ghcr.io/drewstinnett/labdoc:{{ .Tag }}-arm64'
