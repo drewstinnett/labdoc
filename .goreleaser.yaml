@@ -44,6 +44,7 @@ brews:
 dockers:
 - image_templates:
   - 'ghcr.io/drewstinnett/labdoc:{{ .Tag }}-amd64'
+  - 'brewerdrewer/labdoc:{{ .Tag }}-amd64'
   dockerfile: Dockerfile
   use: buildx
   build_flag_templates:
@@ -56,6 +57,7 @@ dockers:
   - "--platform=linux/amd64"
 - image_templates:
   - 'ghcr.io/drewstinnett/labdoc:{{ .Tag }}-arm64'
+  - 'brewerdrewer/labdoc:{{ .Tag }}-arm64'
   dockerfile: Dockerfile
   use: buildx
   build_flag_templates:
