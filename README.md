@@ -22,9 +22,13 @@ Print out example usage, based on plugin data:
 labdoc examples
 ```
 
-## Builtin Template Functions
+## Plugins
 
-### builtinDebug
+### Builtin Template
+
+This is for generic template functions across multiple plugins
+
+#### builtinDebug
 
 Oh dude, would love do document this better. For now, you can use the
 `builtinDebug` filter though. Would love some help on making this more clear
@@ -35,13 +39,56 @@ Oh dude, would love do document this better. For now, you can use the
 
 This will show a json representation of the object
 
-### builtinAgo
+#### builtinAgo
 
 Convert a time.Time or string to 'time ago'. If it can't convert the string to a
 time.Time, it'll just return the original string
 
 ```go
 {{ .Title }} - {{ .PublishedParsed | builtinAgo }}
+```
+
+### RSS Plugin
+
+Simple plugin for just loading an rss file and returning the entries
+
+#### rssListFeed
+
+No additional configuration needed, just pass in a feed URL and a limit
+
+```go
+{{ range rssListFeed "https://www.rogerebert.com/feed" 10}}
+```
+
+### Letterboxd Plugin
+
+Uses the letterboxd rss feeds to query your recent events. Requires
+`LETTERBOXD_USER` environment variable to be set
+
+#### letterboxdRecentlyWatched
+
+```go
+{{ range letterboxdRecentlyWatched 5 }}
+```
+
+### Goodreads Plugin
+
+Uses the goodreads rss feed, since the API has been deprecated. You'll need to
+set both of these variables in order for this to work:
+
+`GOODREADS_RSSUSERID` - You can find this in your profile link. For example, if
+you see `https://www.goodreads.com/user/show/111216449-drew-stinnett`, then
+`111216449` is what `GOODREADS_RSSUSERID` should be set to
+
+`GOODREADS_RSSKEY` - Unsure how private this should be, but if it's in an RSS
+url, assuming it's not too private. Pull this by clicking on the rss icon in the
+goodreads web interface, and selecting the long string after `key=` and before
+`&`in the url
+
+#### goodreadsRecentlyRead
+
+```go
+{{ range goodreadsRecentlyRead 10 }}
 ```
 
 ## Extending with more Plugins
