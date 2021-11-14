@@ -1,0 +1,784 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title>Drew's bookshelf: read</title>
+    <copyright><![CDATA[Copyright (C) 2021 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/review/list_rss/111216449?key=Hso9Q9ARliQ-M-K4jBHQ2mU5ZNMIDvNlb92h5nT-rK_tXUNY&shelf=read]]></link>
+    <atom:link href="https://www.goodreads.com/review/list_rss/111216449?key=Hso9Q9ARliQ-M-K4jBHQ2mU5ZNMIDvNlb92h5nT-rK_tXUNY&amp;shelf=read" rel="self" type="application/rss+xml" />
+    <description><![CDATA[Drew's bookshelf: read]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 04 Apr 2020 05:50:52 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title>Drew's bookshelf: read</title>
+      <link><![CDATA[https://www.goodreads.com/review/list_rss/111216449?key=Hso9Q9ARliQ-M-K4jBHQ2mU5ZNMIDvNlb92h5nT-rK_tXUNY&shelf=read]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/images/layout/goodreads_logo_144.jpg</url>
+    </image>
+    
+  <item>
+    <guid><![CDATA[https://www.goodreads.com/review/show/3262380767?utm_medium=api&utm_source=rss]]></guid>
+    <pubDate><![CDATA[Sat, 04 Apr 2020 05:50:52 -0700]]></pubDate>
+    <title>Blankets</title>
+    <link><![CDATA[https://www.goodreads.com/review/show/3262380767?utm_medium=api&utm_source=rss]]></link>
+    <book_id>25179</book_id>
+    <book_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460925949l/25179._SX50_.jpg]]></book_image_url>
+    <book_small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460925949l/25179._SX50_.jpg]]></book_small_image_url>
+    <book_medium_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460925949l/25179._SX98_.jpg]]></book_medium_image_url>
+    <book_large_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460925949l/25179._SX318_.jpg]]></book_large_image_url>
+    <book_description><![CDATA[Wrapped in the landscape of a blustery Wisconsin winter, <i>Blankets</i> explores the sibling rivalry of two brothers growing up in the isolated country, and the budding romance of two coming-of-age lovers. A tale of security and discovery, of playfulness and tragedy, of a fall from grace and the origins of faith.]]></book_description>
+    <book id="25179">
+      <num_pages>592</num_pages>
+    </book>
+    <author_name>Craig Thompson</author_name>
+    <isbn>1891830430</isbn>
+    <user_name>Drew</user_name>
+    <user_rating>5</user_rating>
+    <user_read_at></user_read_at>
+    <user_date_added><![CDATA[Sat, 04 Apr 2020 05:50:52 -0700]]></user_date_added>
+    <user_date_created><![CDATA[Sat, 04 Apr 2020 05:50:52 -0700]]></user_date_created>
+    <user_shelves></user_shelves>
+    <user_review></user_review>
+    <average_rating>4.03</average_rating>
+    <book_published>2003</book_published>
+    <description>
+      <![CDATA[
+      <a href="https://www.goodreads.com/book/show/25179.Blankets?utm_medium=api&amp;utm_source=rss"><img alt="Blankets" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460925949l/25179._SX50_.jpg" /></a><br/>
+                                      author: Craig Thompson<br/>
+                                      name: Drew<br/>
+                                      average rating: 4.03<br/>
+                                      book published: 2003<br/>
+                                      rating: 5<br/>
+                                      read at: <br/>
+                                      date added: 2020/04/04<br/>
+                                      shelves: <br/>
+                                      review: <br/><br/>
+                                      ]]>
+    </description>
+  </item>
+  <item>
+    <guid><![CDATA[https://www.goodreads.com/review/show/3226162441?utm_medium=api&utm_source=rss]]></guid>
+    <pubDate><![CDATA[Tue, 10 Mar 2020 16:02:28 -0700]]></pubDate>
+    <title><![CDATA[Sweet Tooth, Volume 6: Wild Game]]></title>
+    <link><![CDATA[https://www.goodreads.com/review/show/3226162441?utm_medium=api&utm_source=rss]]></link>
+    <book_id>17137619</book_id>
+    <book_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1370220599l/17137619._SY75_.jpg]]></book_image_url>
+    <book_small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1370220599l/17137619._SY75_.jpg]]></book_small_image_url>
+    <book_medium_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1370220599l/17137619._SX98_.jpg]]></book_medium_image_url>
+    <book_large_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1370220599l/17137619.jpg]]></book_large_image_url>
+    <book_description><![CDATA[Dr. Singh arrives in Alaska and uncovers the origins of Gus and the hybrid children and the cause of the plague that decimated the world. And as Gus and Jepperd finally arrive in Alaska and come face to face with the truth, the militia continues to bear down on them. Their deadliest battle is still ahead.<br /><br /><b>Collecting</b>: <i>Sweet Tooth</i> 33-40]]></book_description>
+    <book id="17137619">
+      <num_pages>198</num_pages>
+    </book>
+    <author_name>Jeff Lemire</author_name>
+    <isbn>1401240291</isbn>
+    <user_name>Drew</user_name>
+    <user_rating>5</user_rating>
+    <user_read_at></user_read_at>
+    <user_date_added><![CDATA[Tue, 10 Mar 2020 16:02:28 -0700]]></user_date_added>
+    <user_date_created><![CDATA[Tue, 10 Mar 2020 16:02:27 -0700]]></user_date_created>
+    <user_shelves></user_shelves>
+    <user_review></user_review>
+    <average_rating>4.35</average_rating>
+    <book_published>2013</book_published>
+    <description>
+      <![CDATA[
+      <a href="https://www.goodreads.com/book/show/17137619-sweet-tooth-volume-6?utm_medium=api&amp;utm_source=rss"><img alt="Sweet Tooth, Volume 6: Wild Game" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1370220599l/17137619._SY75_.jpg" /></a><br/>
+                                      author: Jeff Lemire<br/>
+                                      name: Drew<br/>
+                                      average rating: 4.35<br/>
+                                      book published: 2013<br/>
+                                      rating: 5<br/>
+                                      read at: <br/>
+                                      date added: 2020/03/10<br/>
+                                      shelves: <br/>
+                                      review: <br/><br/>
+                                      ]]>
+    </description>
+  </item>
+  <item>
+    <guid><![CDATA[https://www.goodreads.com/review/show/3226162400?utm_medium=api&utm_source=rss]]></guid>
+    <pubDate><![CDATA[Tue, 10 Mar 2020 16:02:26 -0700]]></pubDate>
+    <title><![CDATA[Sweet Tooth, Volume 5: Unnatural Habitats]]></title>
+    <link><![CDATA[https://www.goodreads.com/review/show/3226162400?utm_medium=api&utm_source=rss]]></link>
+    <book_id>13532247</book_id>
+    <book_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1345767710l/13532247._SY75_.jpg]]></book_image_url>
+    <book_small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1345767710l/13532247._SY75_.jpg]]></book_small_image_url>
+    <book_medium_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1345767710l/13532247._SX98_.jpg]]></book_medium_image_url>
+    <book_large_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1345767710l/13532247.jpg]]></book_large_image_url>
+    <book_description><![CDATA[As the mysterious Captain James Thacker and his crew man a deadly expedition, they will uncover secrets centuries old, but what does any of this have to do with Gus and Jepperd? Plus, while Jeppard, Singh and Gus make plans to head to Alaska, things start to deteriorate for the rest of the group back at the sanctuary!<br /><br /><b>Collecting</b>: <i>Sweet Tooth</i> 26-32]]></book_description>
+    <book id="13532247">
+      <num_pages>158</num_pages>
+    </book>
+    <author_name>Jeff Lemire</author_name>
+    <isbn>1401237231</isbn>
+    <user_name>Drew</user_name>
+    <user_rating>5</user_rating>
+    <user_read_at></user_read_at>
+    <user_date_added><![CDATA[Tue, 10 Mar 2020 16:02:26 -0700]]></user_date_added>
+    <user_date_created><![CDATA[Tue, 10 Mar 2020 16:02:25 -0700]]></user_date_created>
+    <user_shelves></user_shelves>
+    <user_review></user_review>
+    <average_rating>4.18</average_rating>
+    <book_published>2012</book_published>
+    <description>
+      <![CDATA[
+      <a href="https://www.goodreads.com/book/show/13532247-sweet-tooth-volume-5?utm_medium=api&amp;utm_source=rss"><img alt="Sweet Tooth, Volume 5: Unnatural Habitats" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1345767710l/13532247._SY75_.jpg" /></a><br/>
+                                      author: Jeff Lemire<br/>
+                                      name: Drew<br/>
+                                      average rating: 4.18<br/>
+                                      book published: 2012<br/>
+                                      rating: 5<br/>
+                                      read at: <br/>
+                                      date added: 2020/03/10<br/>
+                                      shelves: <br/>
+                                      review: <br/><br/>
+                                      ]]>
+    </description>
+  </item>
+  <item>
+    <guid><![CDATA[https://www.goodreads.com/review/show/3226162277?utm_medium=api&utm_source=rss]]></guid>
+    <pubDate><![CDATA[Tue, 10 Mar 2020 16:02:19 -0700]]></pubDate>
+    <title><![CDATA[Sweet Tooth, Volume 1: Out of the Deep Woods]]></title>
+    <link><![CDATA[https://www.goodreads.com/review/show/3226162277?utm_medium=api&utm_source=rss]]></link>
+    <book_id>6954438</book_id>
+    <book_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1406510539l/6954438._SY75_.jpg]]></book_image_url>
+    <book_small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1406510539l/6954438._SY75_.jpg]]></book_small_image_url>
+    <book_medium_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1406510539l/6954438._SX98_.jpg]]></book_medium_image_url>
+    <book_large_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1406510539l/6954438.jpg]]></book_large_image_url>
+    <book_description><![CDATA[Jeff Lemire's acclaimed new series introduce Gus, a rare new breed of human/animal hybrid who was raised in isolation following a pandemic that struck a decade earlier. Now, with the death of his father, he's left to fend for himself . . . until he meets a hulking drifter named Jepperd, who promises to help him. Jepperd and Gus set out on a post-apocalyptic journey into the devastated American landscape to find 'The Preserve,' a refuge for hybrids.<br /><br /><b>Collecting</b>: <i>Sweet Tooth</i> 1-5]]></book_description>
+    <book id="6954438">
+      <num_pages>128</num_pages>
+    </book>
+    <author_name>Jeff Lemire</author_name>
+    <isbn>1401226965</isbn>
+    <user_name>Drew</user_name>
+    <user_rating>5</user_rating>
+    <user_read_at></user_read_at>
+    <user_date_added><![CDATA[Tue, 10 Mar 2020 16:02:19 -0700]]></user_date_added>
+    <user_date_created><![CDATA[Tue, 10 Mar 2020 16:02:18 -0700]]></user_date_created>
+    <user_shelves></user_shelves>
+    <user_review></user_review>
+    <average_rating>3.93</average_rating>
+    <book_published>2010</book_published>
+    <description>
+      <![CDATA[
+      <a href="https://www.goodreads.com/book/show/6954438-sweet-tooth-volume-1?utm_medium=api&amp;utm_source=rss"><img alt="Sweet Tooth, Volume 1: Out of the Deep Woods" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1406510539l/6954438._SY75_.jpg" /></a><br/>
+                                      author: Jeff Lemire<br/>
+                                      name: Drew<br/>
+                                      average rating: 3.93<br/>
+                                      book published: 2010<br/>
+                                      rating: 5<br/>
+                                      read at: <br/>
+                                      date added: 2020/03/10<br/>
+                                      shelves: <br/>
+                                      review: <br/><br/>
+                                      ]]>
+    </description>
+  </item>
+  <item>
+    <guid><![CDATA[https://www.goodreads.com/review/show/3226162231?utm_medium=api&utm_source=rss]]></guid>
+    <pubDate><![CDATA[Tue, 10 Mar 2020 16:02:17 -0700]]></pubDate>
+    <title><![CDATA[Sweet Tooth, Volume 4: Endangered Species]]></title>
+    <link><![CDATA[https://www.goodreads.com/review/show/3226162231?utm_medium=api&utm_source=rss]]></link>
+    <book_id>12213010</book_id>
+    <book_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333579976l/12213010._SY75_.jpg]]></book_image_url>
+    <book_small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333579976l/12213010._SY75_.jpg]]></book_small_image_url>
+    <book_medium_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333579976l/12213010._SX98_.jpg]]></book_medium_image_url>
+    <book_large_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333579976l/12213010.jpg]]></book_large_image_url>
+    <book_description><![CDATA[Gus reluctantly joins Jepperd on missing persons hunt, but the tension between the two continues to grow. Meanwhile, Singh and Johnny come face to face with a deadly new threat, and Lucy and the girls meet Walter Fish, an enigmatic survivor who may have more to offer than meets the eye. Will this lead to a new sanctuary for them, or something far more dangerous?<br /><br /><b>Collecting</b>: <i>Sweet Tooth</i> 18-25]]></book_description>
+    <book id="12213010">
+      <num_pages>176</num_pages>
+    </book>
+    <author_name>Jeff Lemire</author_name>
+    <isbn>1401233619</isbn>
+    <user_name>Drew</user_name>
+    <user_rating>5</user_rating>
+    <user_read_at></user_read_at>
+    <user_date_added><![CDATA[Tue, 10 Mar 2020 16:02:17 -0700]]></user_date_added>
+    <user_date_created><![CDATA[Tue, 10 Mar 2020 16:02:16 -0700]]></user_date_created>
+    <user_shelves></user_shelves>
+    <user_review></user_review>
+    <average_rating>4.17</average_rating>
+    <book_published>2012</book_published>
+    <description>
+      <![CDATA[
+      <a href="https://www.goodreads.com/book/show/12213010-sweet-tooth-volume-4?utm_medium=api&amp;utm_source=rss"><img alt="Sweet Tooth, Volume 4: Endangered Species" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333579976l/12213010._SY75_.jpg" /></a><br/>
+                                      author: Jeff Lemire<br/>
+                                      name: Drew<br/>
+                                      average rating: 4.17<br/>
+                                      book published: 2012<br/>
+                                      rating: 5<br/>
+                                      read at: <br/>
+                                      date added: 2020/03/10<br/>
+                                      shelves: <br/>
+                                      review: <br/><br/>
+                                      ]]>
+    </description>
+  </item>
+  <item>
+    <guid><![CDATA[https://www.goodreads.com/review/show/3226162157?utm_medium=api&utm_source=rss]]></guid>
+    <pubDate><![CDATA[Tue, 10 Mar 2020 16:02:13 -0700]]></pubDate>
+    <title><![CDATA[Sweet Tooth, Volume 3: Animal Armies]]></title>
+    <link><![CDATA[https://www.goodreads.com/review/show/3226162157?utm_medium=api&utm_source=rss]]></link>
+    <book_id>9921208</book_id>
+    <book_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1440046217l/9921208._SY75_.jpg]]></book_image_url>
+    <book_small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1440046217l/9921208._SY75_.jpg]]></book_small_image_url>
+    <book_medium_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1440046217l/9921208._SX98_.jpg]]></book_medium_image_url>
+    <book_large_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1440046217l/9921208.jpg]]></book_large_image_url>
+    <book_description><![CDATA[Gus and the other hybrid kids meet a new ally in the militia camp, but will he help them find a way out? And Jepperd begins to assemble an army of his own to take down the militia camp. But can he control the forces he's set in motion? It's the most explosive <i>Sweet Tooth</i> epic yet!<br /><br /><b>Collecting</b>: <i>Sweet Tooth</i> 12-17]]></book_description>
+    <book id="9921208">
+      <num_pages>143</num_pages>
+    </book>
+    <author_name>Jeff Lemire</author_name>
+    <isbn>1401231705</isbn>
+    <user_name>Drew</user_name>
+    <user_rating>5</user_rating>
+    <user_read_at></user_read_at>
+    <user_date_added><![CDATA[Tue, 10 Mar 2020 16:02:13 -0700]]></user_date_added>
+    <user_date_created><![CDATA[Tue, 10 Mar 2020 16:02:12 -0700]]></user_date_created>
+    <user_shelves></user_shelves>
+    <user_review></user_review>
+    <average_rating>4.14</average_rating>
+    <book_published>2011</book_published>
+    <description>
+      <![CDATA[
+      <a href="https://www.goodreads.com/book/show/9921208-sweet-tooth-volume-3?utm_medium=api&amp;utm_source=rss"><img alt="Sweet Tooth, Volume 3: Animal Armies" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1440046217l/9921208._SY75_.jpg" /></a><br/>
+                                      author: Jeff Lemire<br/>
+                                      name: Drew<br/>
+                                      average rating: 4.14<br/>
+                                      book published: 2011<br/>
+                                      rating: 5<br/>
+                                      read at: <br/>
+                                      date added: 2020/03/10<br/>
+                                      shelves: <br/>
+                                      review: <br/><br/>
+                                      ]]>
+    </description>
+  </item>
+  <item>
+    <guid><![CDATA[https://www.goodreads.com/review/show/3226162094?utm_medium=api&utm_source=rss]]></guid>
+    <pubDate><![CDATA[Tue, 10 Mar 2020 16:02:09 -0700]]></pubDate>
+    <title><![CDATA[Sweet Tooth, Volume 2: In Captivity]]></title>
+    <link><![CDATA[https://www.goodreads.com/review/show/3226162094?utm_medium=api&utm_source=rss]]></link>
+    <book_id>8171206</book_id>
+    <book_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1612842246l/8171206._SY75_.jpg]]></book_image_url>
+    <book_small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1612842246l/8171206._SY75_.jpg]]></book_small_image_url>
+    <book_medium_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1612842246l/8171206._SX98_.jpg]]></book_medium_image_url>
+    <book_large_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1612842246l/8171206._SY475_.jpg]]></book_large_image_url>
+    <book_description><![CDATA[Learn the heartbreaking story of Jeppard and how he went from devoted husband to ruthless mercenary. Meanwhile, Gus is held captive with other hybrid creatures in a camp where he meets a scientist studying the plague that's wiped out so much of the world.<br /><br /><b>Collecting</b>: <i>Sweet Tooth</i> 6-11]]></book_description>
+    <book id="8171206">
+      <num_pages>144</num_pages>
+    </book>
+    <author_name>Jeff Lemire</author_name>
+    <isbn>1401228542</isbn>
+    <user_name>Drew</user_name>
+    <user_rating>5</user_rating>
+    <user_read_at></user_read_at>
+    <user_date_added><![CDATA[Tue, 10 Mar 2020 16:02:09 -0700]]></user_date_added>
+    <user_date_created><![CDATA[Tue, 10 Mar 2020 16:02:09 -0700]]></user_date_created>
+    <user_shelves></user_shelves>
+    <user_review></user_review>
+    <average_rating>4.09</average_rating>
+    <book_published>2010</book_published>
+    <description>
+      <![CDATA[
+      <a href="https://www.goodreads.com/book/show/8171206-sweet-tooth-volume-2?utm_medium=api&amp;utm_source=rss"><img alt="Sweet Tooth, Volume 2: In Captivity" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1612842246l/8171206._SY75_.jpg" /></a><br/>
+                                      author: Jeff Lemire<br/>
+                                      name: Drew<br/>
+                                      average rating: 4.09<br/>
+                                      book published: 2010<br/>
+                                      rating: 5<br/>
+                                      read at: <br/>
+                                      date added: 2020/03/10<br/>
+                                      shelves: <br/>
+                                      review: <br/><br/>
+                                      ]]>
+    </description>
+  </item>
+  <item>
+    <guid><![CDATA[https://www.goodreads.com/review/show/3226161675?utm_medium=api&utm_source=rss]]></guid>
+    <pubDate><![CDATA[Tue, 10 Mar 2020 16:01:47 -0700]]></pubDate>
+    <title>The Walking Dead, Issue #1</title>
+    <link><![CDATA[https://www.goodreads.com/review/show/3226161675?utm_medium=api&utm_source=rss]]></link>
+    <book_id>13084331</book_id>
+    <book_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1321772766l/13084331._SY75_.jpg]]></book_image_url>
+    <book_small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1321772766l/13084331._SY75_.jpg]]></book_small_image_url>
+    <book_medium_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1321772766l/13084331._SX98_.jpg]]></book_medium_image_url>
+    <book_large_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1321772766l/13084331.jpg]]></book_large_image_url>
+    <book_description><![CDATA[Rick Grimes, Sheriff of a small town in Kentucky awakes in a hospital. Comatose after being shot while on duty, Rick finds the world abandoned of all things living and is faced with walking undead, who attack him on sight. He returns home to find his family, son Carl and wife Lori, gone. He meets his new neighbor, who points him towards Atlanta. After retrieving supplies from the abandoned Police Station, Rick sets off to Atlanta to search for his family]]></book_description>
+    <book id="13084331">
+      <num_pages>26</num_pages>
+    </book>
+    <author_name>Robert Kirkman</author_name>
+    <isbn></isbn>
+    <user_name>Drew</user_name>
+    <user_rating>3</user_rating>
+    <user_read_at></user_read_at>
+    <user_date_added><![CDATA[Tue, 10 Mar 2020 16:01:47 -0700]]></user_date_added>
+    <user_date_created><![CDATA[Tue, 10 Mar 2020 16:01:46 -0700]]></user_date_created>
+    <user_shelves></user_shelves>
+    <user_review></user_review>
+    <average_rating>4.26</average_rating>
+    <book_published>2003</book_published>
+    <description>
+      <![CDATA[
+      <a href="https://www.goodreads.com/book/show/13084331-the-walking-dead-issue-1?utm_medium=api&amp;utm_source=rss"><img alt="The Walking Dead, Issue #1" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1321772766l/13084331._SY75_.jpg" /></a><br/>
+                                      author: Robert Kirkman<br/>
+                                      name: Drew<br/>
+                                      average rating: 4.26<br/>
+                                      book published: 2003<br/>
+                                      rating: 3<br/>
+                                      read at: <br/>
+                                      date added: 2020/03/10<br/>
+                                      shelves: <br/>
+                                      review: <br/><br/>
+                                      ]]>
+    </description>
+  </item>
+  <item>
+    <guid><![CDATA[https://www.goodreads.com/review/show/3226161383?utm_medium=api&utm_source=rss]]></guid>
+    <pubDate><![CDATA[Tue, 10 Mar 2020 16:01:32 -0700]]></pubDate>
+    <title>Crossed, Vol. 1</title>
+    <link><![CDATA[https://www.goodreads.com/review/show/3226161383?utm_medium=api&utm_source=rss]]></link>
+    <book_id>7720278</book_id>
+    <book_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1268653282l/7720278._SY75_.jpg]]></book_image_url>
+    <book_small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1268653282l/7720278._SY75_.jpg]]></book_small_image_url>
+    <book_medium_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1268653282l/7720278._SX98_.jpg]]></book_medium_image_url>
+    <book_large_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1268653282l/7720278.jpg]]></book_large_image_url>
+    <book_description><![CDATA[The world's been overrun by sadistic homicidal maniacs. A small band of survivors crosses what's left of America, in constant danger and trying to hold onto what little humanity they can.<br /><br />In the blink of an eye, humanity is lost, and the Crossed are upon us. Men, women, and children alike fall victim to the mystery infection that makes killers out of parents and rapists out of lovers. Ruthless, berserk, and evil beyond measure, these cackling demons spread their plague across the Earth, brining humanity to near-extinction. Now, a small band of survivors make their cautious way across a deserted America, existing in a state of constant terror. The only thing they have in common is their determination to survive... but in this frightening new world, survival has a cost all its own. How far will they go to stay alive, and can they do so without become monsters themselves?]]></book_description>
+    <book id="7720278">
+      <num_pages>240</num_pages>
+    </book>
+    <author_name>Garth Ennis</author_name>
+    <isbn>1592910904</isbn>
+    <user_name>Drew</user_name>
+    <user_rating>3</user_rating>
+    <user_read_at></user_read_at>
+    <user_date_added><![CDATA[Tue, 10 Mar 2020 16:01:32 -0700]]></user_date_added>
+    <user_date_created><![CDATA[Tue, 10 Mar 2020 16:01:32 -0700]]></user_date_created>
+    <user_shelves></user_shelves>
+    <user_review></user_review>
+    <average_rating>3.66</average_rating>
+    <book_published>2006</book_published>
+    <description>
+      <![CDATA[
+      <a href="https://www.goodreads.com/book/show/7720278-crossed-vol-1?utm_medium=api&amp;utm_source=rss"><img alt="Crossed, Vol. 1" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1268653282l/7720278._SY75_.jpg" /></a><br/>
+                                      author: Garth Ennis<br/>
+                                      name: Drew<br/>
+                                      average rating: 3.66<br/>
+                                      book published: 2006<br/>
+                                      rating: 3<br/>
+                                      read at: <br/>
+                                      date added: 2020/03/10<br/>
+                                      shelves: <br/>
+                                      review: <br/><br/>
+                                      ]]>
+    </description>
+  </item>
+  <item>
+    <guid><![CDATA[https://www.goodreads.com/review/show/3226160228?utm_medium=api&utm_source=rss]]></guid>
+    <pubDate><![CDATA[Tue, 10 Mar 2020 16:00:31 -0700]]></pubDate>
+    <title><![CDATA[Locke & Key, Vol. 1: Welcome to Lovecraft]]></title>
+    <link><![CDATA[https://www.goodreads.com/review/show/3226160228?utm_medium=api&utm_source=rss]]></link>
+    <book_id>3217221</book_id>
+    <book_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1377304780l/3217221._SY75_.jpg]]></book_image_url>
+    <book_small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1377304780l/3217221._SY75_.jpg]]></book_small_image_url>
+    <book_medium_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1377304780l/3217221._SX98_.jpg]]></book_medium_image_url>
+    <book_large_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1377304780l/3217221.jpg]]></book_large_image_url>
+    <book_description><![CDATA[Locke &amp; Key tells of Keyhouse, an unlikely New England mansion, with fantastic doors that transform all who dare to walk through them. Home to a hate-filled and relentless creature that will not rest until it forces open the most terrible door of them all...]]></book_description>
+    <book id="3217221">
+      <num_pages>168</num_pages>
+    </book>
+    <author_name>Joe Hill</author_name>
+    <isbn>1600102379</isbn>
+    <user_name>Drew</user_name>
+    <user_rating>4</user_rating>
+    <user_read_at></user_read_at>
+    <user_date_added><![CDATA[Tue, 10 Mar 2020 16:00:31 -0700]]></user_date_added>
+    <user_date_created><![CDATA[Tue, 10 Mar 2020 16:00:30 -0700]]></user_date_created>
+    <user_shelves></user_shelves>
+    <user_review></user_review>
+    <average_rating>4.14</average_rating>
+    <book_published>2008</book_published>
+    <description>
+      <![CDATA[
+      <a href="https://www.goodreads.com/book/show/3217221-locke-key-vol-1?utm_medium=api&amp;utm_source=rss"><img alt="Locke &amp; Key, Vol. 1: Welcome to Lovecraft" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1377304780l/3217221._SY75_.jpg" /></a><br/>
+                                      author: Joe Hill<br/>
+                                      name: Drew<br/>
+                                      average rating: 4.14<br/>
+                                      book published: 2008<br/>
+                                      rating: 4<br/>
+                                      read at: <br/>
+                                      date added: 2020/03/10<br/>
+                                      shelves: <br/>
+                                      review: <br/><br/>
+                                      ]]>
+    </description>
+  </item>
+  <item>
+    <guid><![CDATA[https://www.goodreads.com/review/show/3226160092?utm_medium=api&utm_source=rss]]></guid>
+    <pubDate><![CDATA[Tue, 10 Mar 2020 16:00:23 -0700]]></pubDate>
+    <title>Paper Girls, Vol. 1</title>
+    <link><![CDATA[https://www.goodreads.com/review/show/3226160092?utm_medium=api&utm_source=rss]]></link>
+    <book_id>28204534</book_id>
+    <book_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1506952499l/28204534._SY75_.jpg]]></book_image_url>
+    <book_small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1506952499l/28204534._SY75_.jpg]]></book_small_image_url>
+    <book_medium_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1506952499l/28204534._SX98_.jpg]]></book_medium_image_url>
+    <book_large_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1506952499l/28204534._SY475_.jpg]]></book_large_image_url>
+    <book_description><![CDATA[SAGA writer BRIAN K. VAUGHAN launches a brand-new ONGOING SERIES with superstar Wonder Woman artist CLIFF CHIANG! In the early hours after Halloween of 1988, four 12-year-old newspaper delivery girls uncover the most important story of all time.]]></book_description>
+    <book id="28204534">
+      <num_pages>144</num_pages>
+    </book>
+    <author_name>Brian K. Vaughan</author_name>
+    <isbn>1632156741</isbn>
+    <user_name>Drew</user_name>
+    <user_rating>5</user_rating>
+    <user_read_at></user_read_at>
+    <user_date_added><![CDATA[Tue, 10 Mar 2020 16:00:23 -0700]]></user_date_added>
+    <user_date_created><![CDATA[Tue, 10 Mar 2020 16:00:22 -0700]]></user_date_created>
+    <user_shelves></user_shelves>
+    <user_review></user_review>
+    <average_rating>3.88</average_rating>
+    <book_published>2016</book_published>
+    <description>
+      <![CDATA[
+      <a href="https://www.goodreads.com/book/show/28204534-paper-girls-vol-1?utm_medium=api&amp;utm_source=rss"><img alt="Paper Girls, Vol. 1" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1506952499l/28204534._SY75_.jpg" /></a><br/>
+                                      author: Brian K. Vaughan<br/>
+                                      name: Drew<br/>
+                                      average rating: 3.88<br/>
+                                      book published: 2016<br/>
+                                      rating: 5<br/>
+                                      read at: <br/>
+                                      date added: 2020/03/10<br/>
+                                      shelves: <br/>
+                                      review: <br/><br/>
+                                      ]]>
+    </description>
+  </item>
+  <item>
+    <guid><![CDATA[https://www.goodreads.com/review/show/3226159766?utm_medium=api&utm_source=rss]]></guid>
+    <pubDate><![CDATA[Tue, 10 Mar 2020 16:00:06 -0700]]></pubDate>
+    <title><![CDATA[Transmetropolitan, Vol. 6: Gouge Away]]></title>
+    <link><![CDATA[https://www.goodreads.com/review/show/3226159766?utm_medium=api&utm_source=rss]]></link>
+    <book_id>22422</book_id>
+    <book_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1374683419l/22422._SY75_.jpg]]></book_image_url>
+    <book_small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1374683419l/22422._SY75_.jpg]]></book_small_image_url>
+    <book_medium_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1374683419l/22422._SX98_.jpg]]></book_medium_image_url>
+    <book_large_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1374683419l/22422.jpg]]></book_large_image_url>
+    <book_description><![CDATA[Despite -- or perhaps with the aid of -- drugs, drinking, and paranoia, Spider Jerusalem and his filthy assistants are hot on the trail of the horrifying truth behind the newly-elected President's campaign. Features three stand-alone stories: "Nobody Loves me, "The Walk" and "Dancing in the Here and Now," and also includes the three-part "Gouge Away" storyline.]]></book_description>
+    <book id="22422">
+      <num_pages>144</num_pages>
+    </book>
+    <author_name>Warren Ellis</author_name>
+    <isbn>1563897962</isbn>
+    <user_name>Drew</user_name>
+    <user_rating>3</user_rating>
+    <user_read_at></user_read_at>
+    <user_date_added><![CDATA[Tue, 10 Mar 2020 16:00:06 -0700]]></user_date_added>
+    <user_date_created><![CDATA[Tue, 10 Mar 2020 16:00:05 -0700]]></user_date_created>
+    <user_shelves></user_shelves>
+    <user_review></user_review>
+    <average_rating>4.42</average_rating>
+    <book_published>2002</book_published>
+    <description>
+      <![CDATA[
+      <a href="https://www.goodreads.com/book/show/22422.Transmetropolitan_Vol_6?utm_medium=api&amp;utm_source=rss"><img alt="Transmetropolitan, Vol. 6: Gouge Away" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1374683419l/22422._SY75_.jpg" /></a><br/>
+                                      author: Warren Ellis<br/>
+                                      name: Drew<br/>
+                                      average rating: 4.42<br/>
+                                      book published: 2002<br/>
+                                      rating: 3<br/>
+                                      read at: <br/>
+                                      date added: 2020/03/10<br/>
+                                      shelves: <br/>
+                                      review: <br/><br/>
+                                      ]]>
+    </description>
+  </item>
+  <item>
+    <guid><![CDATA[https://www.goodreads.com/review/show/3226159717?utm_medium=api&utm_source=rss]]></guid>
+    <pubDate><![CDATA[Tue, 10 Mar 2020 16:00:03 -0700]]></pubDate>
+    <title><![CDATA[Transmetropolitan, Vol. 2: Lust for Life]]></title>
+    <link><![CDATA[https://www.goodreads.com/review/show/3226159717?utm_medium=api&utm_source=rss]]></link>
+    <book_id>22417</book_id>
+    <book_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1427758922l/22417._SY75_.jpg]]></book_image_url>
+    <book_small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1427758922l/22417._SY75_.jpg]]></book_small_image_url>
+    <book_medium_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1427758922l/22417._SX98_.jpg]]></book_medium_image_url>
+    <book_large_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1427758922l/22417.jpg]]></book_large_image_url>
+    <book_description><![CDATA[Outlaw journalist Spider Jerusalem has become a household name in the future City he calls home. This latest collection of twisted tales showcases Spider's horrific yet funny screeds on subjects as diverse as religion, politics, and his ex-wife's cryogenically frozen head (which has been stolen). "Transmetropolitan" has been called "brilliant future-shock commentary" (Spin), and this new volume shows why.]]></book_description>
+    <book id="22417">
+      <num_pages>208</num_pages>
+    </book>
+    <author_name>Warren Ellis</author_name>
+    <isbn>1563894815</isbn>
+    <user_name>Drew</user_name>
+    <user_rating>3</user_rating>
+    <user_read_at></user_read_at>
+    <user_date_added><![CDATA[Tue, 10 Mar 2020 16:00:03 -0700]]></user_date_added>
+    <user_date_created><![CDATA[Tue, 10 Mar 2020 16:00:03 -0700]]></user_date_created>
+    <user_shelves></user_shelves>
+    <user_review></user_review>
+    <average_rating>4.34</average_rating>
+    <book_published>1999</book_published>
+    <description>
+      <![CDATA[
+      <a href="https://www.goodreads.com/book/show/22417.Transmetropolitan_Vol_2?utm_medium=api&amp;utm_source=rss"><img alt="Transmetropolitan, Vol. 2: Lust for Life" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1427758922l/22417._SY75_.jpg" /></a><br/>
+                                      author: Warren Ellis<br/>
+                                      name: Drew<br/>
+                                      average rating: 4.34<br/>
+                                      book published: 1999<br/>
+                                      rating: 3<br/>
+                                      read at: <br/>
+                                      date added: 2020/03/10<br/>
+                                      shelves: <br/>
+                                      review: <br/><br/>
+                                      ]]>
+    </description>
+  </item>
+  <item>
+    <guid><![CDATA[https://www.goodreads.com/review/show/3226159636?utm_medium=api&utm_source=rss]]></guid>
+    <pubDate><![CDATA[Tue, 10 Mar 2020 15:59:59 -0700]]></pubDate>
+    <title><![CDATA[Motherland (Y: The Last Man #9)]]></title>
+    <link><![CDATA[https://www.goodreads.com/review/show/3226159636?utm_medium=api&utm_source=rss]]></link>
+    <book_id>156532</book_id>
+    <book_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389738956l/156532._SY75_.jpg]]></book_image_url>
+    <book_small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389738956l/156532._SY75_.jpg]]></book_small_image_url>
+    <book_medium_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389738956l/156532._SX98_.jpg]]></book_medium_image_url>
+    <book_large_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389738956l/156532.jpg]]></book_large_image_url>
+    <book_description><![CDATA[The saga of Yorick Brown, an unemployed and unmotivated slacker who discovers he is the only male left in the world after a plague of unknown origin instantly kills every mammal with a Y chromosome. Accompanied by his mischievous monkey, Ampersand, and the mysterious Agent 355, Yorick embarks on a transcontinental journey to find his long-lost girlfriend and discover why he is the last man on earth.<br /><br />This volume of the critically acclaimed series features Yorick and Agent 355 preparing for their ultimate quest to reunite the last man with his lost love, while the person, people or thing behind the disaster that wiped out half of humanity is revealed!]]></book_description>
+    <book id="156532">
+      <num_pages>144</num_pages>
+    </book>
+    <author_name>Brian K. Vaughan</author_name>
+    <isbn>1401213510</isbn>
+    <user_name>Drew</user_name>
+    <user_rating>4</user_rating>
+    <user_read_at></user_read_at>
+    <user_date_added><![CDATA[Tue, 10 Mar 2020 15:59:59 -0700]]></user_date_added>
+    <user_date_created><![CDATA[Tue, 10 Mar 2020 15:59:58 -0700]]></user_date_created>
+    <user_shelves></user_shelves>
+    <user_review></user_review>
+    <average_rating>4.26</average_rating>
+    <book_published>2007</book_published>
+    <description>
+      <![CDATA[
+      <a href="https://www.goodreads.com/book/show/156532.Motherland?utm_medium=api&amp;utm_source=rss"><img alt="Motherland (Y: The Last Man #9)" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389738956l/156532._SY75_.jpg" /></a><br/>
+                                      author: Brian K. Vaughan<br/>
+                                      name: Drew<br/>
+                                      average rating: 4.26<br/>
+                                      book published: 2007<br/>
+                                      rating: 4<br/>
+                                      read at: <br/>
+                                      date added: 2020/03/10<br/>
+                                      shelves: <br/>
+                                      review: <br/><br/>
+                                      ]]>
+    </description>
+  </item>
+  <item>
+    <guid><![CDATA[https://www.goodreads.com/review/show/3226159556?utm_medium=api&utm_source=rss]]></guid>
+    <pubDate><![CDATA[Tue, 10 Mar 2020 15:59:54 -0700]]></pubDate>
+    <title>Preacher, Volume 7: Salvation</title>
+    <link><![CDATA[https://www.goodreads.com/review/show/3226159556?utm_medium=api&utm_source=rss]]></link>
+    <book_id>102954</book_id>
+    <book_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348311524l/102954._SY75_.jpg]]></book_image_url>
+    <book_small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348311524l/102954._SY75_.jpg]]></book_small_image_url>
+    <book_medium_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348311524l/102954._SX98_.jpg]]></book_medium_image_url>
+    <book_large_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348311524l/102954.jpg]]></book_large_image_url>
+    <book_description><![CDATA[Written by Garth Ennis Art by Steve Dillon Cover by Glenn Fabry A new edition of the classic collection featuring PREACHER #41-50, in which Jesse Custer becomes the sheriff of a troubled Texas town. This volume includes a cover gallery and reprints issue #50's pin-ups of the PREACHER cast by Jim Lee, Fabry, Tim Bradstreet, John McCrea, Doug Mahnke, and more.]]></book_description>
+    <book id="102954">
+      <num_pages>256</num_pages>
+    </book>
+    <author_name>Garth Ennis</author_name>
+    <isbn>1563895196</isbn>
+    <user_name>Drew</user_name>
+    <user_rating>5</user_rating>
+    <user_read_at></user_read_at>
+    <user_date_added><![CDATA[Tue, 10 Mar 2020 15:59:54 -0700]]></user_date_added>
+    <user_date_created><![CDATA[Tue, 10 Mar 2020 15:59:53 -0700]]></user_date_created>
+    <user_shelves></user_shelves>
+    <user_review></user_review>
+    <average_rating>4.31</average_rating>
+    <book_published>1999</book_published>
+    <description>
+      <![CDATA[
+      <a href="https://www.goodreads.com/book/show/102954.Preacher_Volume_7?utm_medium=api&amp;utm_source=rss"><img alt="Preacher, Volume 7: Salvation" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348311524l/102954._SY75_.jpg" /></a><br/>
+                                      author: Garth Ennis<br/>
+                                      name: Drew<br/>
+                                      average rating: 4.31<br/>
+                                      book published: 1999<br/>
+                                      rating: 5<br/>
+                                      read at: <br/>
+                                      date added: 2020/03/10<br/>
+                                      shelves: <br/>
+                                      review: <br/><br/>
+                                      ]]>
+    </description>
+  </item>
+  <item>
+    <guid><![CDATA[https://www.goodreads.com/review/show/3226159514?utm_medium=api&utm_source=rss]]></guid>
+    <pubDate><![CDATA[Tue, 10 Mar 2020 15:59:52 -0700]]></pubDate>
+    <title>Safeword (Y: The Last Man #4)</title>
+    <link><![CDATA[https://www.goodreads.com/review/show/3226159514?utm_medium=api&utm_source=rss]]></link>
+    <book_id>184040</book_id>
+    <book_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1335238541l/184040._SX50_.jpg]]></book_image_url>
+    <book_small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1335238541l/184040._SX50_.jpg]]></book_small_image_url>
+    <book_medium_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1335238541l/184040._SX98_.jpg]]></book_medium_image_url>
+    <book_large_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1335238541l/184040.jpg]]></book_large_image_url>
+    <book_description><![CDATA[As the Last Man on Earth and his companions continue to head West, the story takes a detour into the psychological.<br /><br />In the care of a fellow Culper Ring member, Yorick Brown is forced to confront his tremendous feelings of survivor guilt that lead him to constantly put his life in danger. Once on the road again, the group runs up against a literal roadblock in Arizona, where the female remains of the Sons of Arizona militia have cut the interstate to keep out any vestiges of the U.S. government.]]></book_description>
+    <book id="184040">
+      <num_pages>144</num_pages>
+    </book>
+    <author_name>Brian K. Vaughan</author_name>
+    <isbn>1401202322</isbn>
+    <user_name>Drew</user_name>
+    <user_rating>4</user_rating>
+    <user_read_at></user_read_at>
+    <user_date_added><![CDATA[Tue, 10 Mar 2020 15:59:52 -0700]]></user_date_added>
+    <user_date_created><![CDATA[Tue, 10 Mar 2020 15:59:51 -0700]]></user_date_created>
+    <user_shelves></user_shelves>
+    <user_review></user_review>
+    <average_rating>4.25</average_rating>
+    <book_published>2004</book_published>
+    <description>
+      <![CDATA[
+      <a href="https://www.goodreads.com/book/show/184040.Safeword?utm_medium=api&amp;utm_source=rss"><img alt="Safeword (Y: The Last Man #4)" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1335238541l/184040._SX50_.jpg" /></a><br/>
+                                      author: Brian K. Vaughan<br/>
+                                      name: Drew<br/>
+                                      average rating: 4.25<br/>
+                                      book published: 2004<br/>
+                                      rating: 4<br/>
+                                      read at: <br/>
+                                      date added: 2020/03/10<br/>
+                                      shelves: <br/>
+                                      review: <br/><br/>
+                                      ]]>
+    </description>
+  </item>
+  <item>
+    <guid><![CDATA[https://www.goodreads.com/review/show/3226159375?utm_medium=api&utm_source=rss]]></guid>
+    <pubDate><![CDATA[Tue, 10 Mar 2020 15:59:44 -0700]]></pubDate>
+    <title><![CDATA[Locke & Key, Vol. 5: Clockworks]]></title>
+    <link><![CDATA[https://www.goodreads.com/review/show/3226159375?utm_medium=api&utm_source=rss]]></link>
+    <book_id>13490570</book_id>
+    <book_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1343848792l/13490570._SY75_.jpg]]></book_image_url>
+    <book_small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1343848792l/13490570._SY75_.jpg]]></book_small_image_url>
+    <book_medium_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1343848792l/13490570._SX98_.jpg]]></book_medium_image_url>
+    <book_large_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1343848792l/13490570.jpg]]></book_large_image_url>
+    <book_description><![CDATA[Locke &amp; Key tells of Keyhouse, an unlikely New England mansion, with fantastic doors that transform all who dare to walk through them.... and home to a hate-filled and relentless creature that will not rest until it forces open the most terrible door of them all...! After the gruesome murder of their father, the Locke kids, Tyler, Kinsey and Bode move with their mother Nina to the ancestral family home, Keyhouse. They soon discover that the house is full of secrets when they start finding magical keys which hold impossible powers such as turning people into ghosts, or being able to erase someone's memories. They are not the only ones who know of the keys; a demonic creature known as Dodge is also after the keys, with the goal of opening the Black Door, which will allow the demons of hell to enter our world. The sprawling tale of the Locke family and their mastery of the 'whispering steel' thunders to new heights as the true history of the family is revealed to Tyler and Kinsey. Zack Wells assumes a new form, Tyler and Kinsey travel through time.<br /><br />Tyler and Kinsey Locke have no idea that their now-deceased nemesis, Lucas "Dodge" Caravaggio, has taken over the body of their younger brother, Bode. With unrestricted access to Keyhouse, Dodge's ruthless quest to find the Omega Key and open the Black Door is almost complete. But Tyler and Kinsey have a dangerous key of their own — one that can unlock all the secrets of Keyhouse by opening a gateway to the past. The time has come for the Lockes to face theri own legacy and the darkness behind the Black Door. Because if they don't learn from their family history, they may be doomed to repeat it, and time is running out!<br /><br />Colonel Adam Crais's minutemen are literally trapped between a rock and a hard place; in the first days of the Revolutionary War, they find themselves hiding beneath 120 feet of New England stone, with a full regiment of redcoats waiting for them in the daylight... and a door into hell in the cavern below. The black door is open, and it's up to a 16-year-old smith named Ben Locke to find a way to close it. The biggest mysteries of the Locke &amp; Key series are resolved as Clockworks opens, not with a bang, but with the thunderous crash of English cannons.<br /><br />Contents:<br />Clockworks [Locke &amp; Key • 5] / graphic format novella by Joe Hill; interior artwork by Gabriel Rodriguez and Jay Fotos<br /> 1 The Locksmith's Son<br /> 2 SMASH!<br /> 3 The Tamers of the Tempest<br /> 4 The Whispering Iron<br /> 5 Grown-Ups<br /> 6 Curtain<br />The Known Keys (Clockworks) [Locke &amp; Key • 5.5] [Excerpts from the Diary of Benjamin Pierce Locke, 1757-1799] / shortfiction by Joe Hill; interior artwork by Gabriel Rodriguez<br />...to be concluded in Locke &amp; Key: OMEGA<br /><br />Storytellers: Joe Hill, author, Gabriel Rodriguez, Illustrator. Series edited by Chris Ryall. Collection edited by Justin Eisinger.<br />.]]></book_description>
+    <book id="13490570">
+      <num_pages>160</num_pages>
+    </book>
+    <author_name>Joe Hill</author_name>
+    <isbn>1613772270</isbn>
+    <user_name>Drew</user_name>
+    <user_rating>4</user_rating>
+    <user_read_at></user_read_at>
+    <user_date_added><![CDATA[Tue, 10 Mar 2020 15:59:44 -0700]]></user_date_added>
+    <user_date_created><![CDATA[Tue, 10 Mar 2020 15:59:43 -0700]]></user_date_created>
+    <user_shelves></user_shelves>
+    <user_review></user_review>
+    <average_rating>4.46</average_rating>
+    <book_published>2013</book_published>
+    <description>
+      <![CDATA[
+      <a href="https://www.goodreads.com/book/show/13490570-locke-key-vol-5?utm_medium=api&amp;utm_source=rss"><img alt="Locke &amp; Key, Vol. 5: Clockworks" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1343848792l/13490570._SY75_.jpg" /></a><br/>
+                                      author: Joe Hill<br/>
+                                      name: Drew<br/>
+                                      average rating: 4.46<br/>
+                                      book published: 2013<br/>
+                                      rating: 4<br/>
+                                      read at: <br/>
+                                      date added: 2020/03/10<br/>
+                                      shelves: <br/>
+                                      review: <br/><br/>
+                                      ]]>
+    </description>
+  </item>
+  <item>
+    <guid><![CDATA[https://www.goodreads.com/review/show/3226159132?utm_medium=api&utm_source=rss]]></guid>
+    <pubDate><![CDATA[Tue, 10 Mar 2020 15:59:32 -0700]]></pubDate>
+    <title>Saga, Vol. 1</title>
+    <link><![CDATA[https://www.goodreads.com/review/show/3226159132?utm_medium=api&utm_source=rss]]></link>
+    <book_id>15704307</book_id>
+    <book_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1486028947l/15704307._SY75_.jpg]]></book_image_url>
+    <book_small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1486028947l/15704307._SY75_.jpg]]></book_small_image_url>
+    <book_medium_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1486028947l/15704307._SX98_.jpg]]></book_medium_image_url>
+    <book_large_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1486028947l/15704307._SY475_.jpg]]></book_large_image_url>
+    <book_description><![CDATA[When two soldiers from opposite sides of a never-ending galactic war fall in love, they risk everything to bring a fragile new life into a dangerous old universe. <br /><br />From bestselling writer Brian K. Vaughan, <i>Saga</i> is the sweeping tale of one young family fighting to find their place in the worlds. Fantasy and science fiction are wed like never before in this sexy, subversive drama for adults. <br /><br /><b>Collecting</b>: <i>Saga</i> 1-6]]></book_description>
+    <book id="15704307">
+      <num_pages>176</num_pages>
+    </book>
+    <author_name>Brian K. Vaughan</author_name>
+    <isbn>1607066017</isbn>
+    <user_name>Drew</user_name>
+    <user_rating>5</user_rating>
+    <user_read_at></user_read_at>
+    <user_date_added><![CDATA[Tue, 10 Mar 2020 15:59:32 -0700]]></user_date_added>
+    <user_date_created><![CDATA[Tue, 10 Mar 2020 15:59:31 -0700]]></user_date_created>
+    <user_shelves></user_shelves>
+    <user_review></user_review>
+    <average_rating>4.17</average_rating>
+    <book_published>2012</book_published>
+    <description>
+      <![CDATA[
+      <a href="https://www.goodreads.com/book/show/15704307-saga-vol-1?utm_medium=api&amp;utm_source=rss"><img alt="Saga, Vol. 1" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1486028947l/15704307._SY75_.jpg" /></a><br/>
+                                      author: Brian K. Vaughan<br/>
+                                      name: Drew<br/>
+                                      average rating: 4.17<br/>
+                                      book published: 2012<br/>
+                                      rating: 5<br/>
+                                      read at: <br/>
+                                      date added: 2020/03/10<br/>
+                                      shelves: <br/>
+                                      review: <br/><br/>
+                                      ]]>
+    </description>
+  </item>
+  <item>
+    <guid><![CDATA[https://www.goodreads.com/review/show/3226159063?utm_medium=api&utm_source=rss]]></guid>
+    <pubDate><![CDATA[Tue, 10 Mar 2020 15:59:28 -0700]]></pubDate>
+    <title><![CDATA[Watchmen #1: At Midnight, All The Agents....]]></title>
+    <link><![CDATA[https://www.goodreads.com/review/show/3226159063?utm_medium=api&utm_source=rss]]></link>
+    <book_id>17856572</book_id>
+    <book_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1367119027l/17856572._SY75_.jpg]]></book_image_url>
+    <book_small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1367119027l/17856572._SY75_.jpg]]></book_small_image_url>
+    <book_medium_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1367119027l/17856572._SX98_.jpg]]></book_medium_image_url>
+    <book_large_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1367119027l/17856572.jpg]]></book_large_image_url>
+    <book_description><![CDATA[Watchmen Chapter 1 of 12: At Midnight, All The Agents...]]></book_description>
+    <book id="17856572">
+      <num_pages>35</num_pages>
+    </book>
+    <author_name>Alan Moore</author_name>
+    <isbn></isbn>
+    <user_name>Drew</user_name>
+    <user_rating>5</user_rating>
+    <user_read_at></user_read_at>
+    <user_date_added><![CDATA[Tue, 10 Mar 2020 15:59:28 -0700]]></user_date_added>
+    <user_date_created><![CDATA[Tue, 10 Mar 2020 15:59:28 -0700]]></user_date_created>
+    <user_shelves></user_shelves>
+    <user_review></user_review>
+    <average_rating>4.30</average_rating>
+    <book_published>1986</book_published>
+    <description>
+      <![CDATA[
+      <a href="https://www.goodreads.com/book/show/17856572-watchmen-1?utm_medium=api&amp;utm_source=rss"><img alt="Watchmen #1: At Midnight, All The Agents...." src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1367119027l/17856572._SY75_.jpg" /></a><br/>
+                                      author: Alan Moore<br/>
+                                      name: Drew<br/>
+                                      average rating: 4.30<br/>
+                                      book published: 1986<br/>
+                                      rating: 5<br/>
+                                      read at: <br/>
+                                      date added: 2020/03/10<br/>
+                                      shelves: <br/>
+                                      review: <br/><br/>
+                                      ]]>
+    </description>
+  </item>
+
+  </channel>
+</rss>
