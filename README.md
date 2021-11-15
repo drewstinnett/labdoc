@@ -22,6 +22,42 @@ Print out example usage, based on plugin data:
 labdoc examples
 ```
 
+### Run in Gitlab CI
+
+Create a new personal access token from your profile page on Gitlab.com (or your
+locally hosted URL). It will need the following permissions: `read_user`,
+`read_api`, and `write_repository`. Save this token as `GITLAB_TOKEN` in your
+runner variable section, along with any other plugin variables that you might
+need.
+
+Set up your `.gitlab-ci.yml` file with something like the following:
+
+```yaml
+---
+stages:
+  - release
+
+release:
+  stage: release
+  image:
+    name: brewerdrewer/labdoc:latest
+    entrypoint: ['']
+  variables:
+    GIT_DEPTH: 0
+  script:
+    - /labdoc generate templates/README.md.tpl > README.md
+    - git config --global user.email "${GITLAB_USER_EMAIL}"
+    - git config --global user.name "${GITLAB_USER_NAME}"
+    - CHANGED=$(git diff)
+    - |
+      if [ -n "${CHANGED}" ]; then
+        git commit -a -m 'Updating readme'
+        git push https://${GITLAB_USER_LOGIN}:${GITLAB_TOKEN}@${CI_SERVER_HOST}/${CI_PROJECT_ROOT_NAMESPACE}/${CI_PROJECT_NAME}.git HEAD:main
+      fi
+```
+
+
+
 ## Plugins
 
 ### Builtin Template
