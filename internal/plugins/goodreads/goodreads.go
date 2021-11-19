@@ -64,8 +64,8 @@ func parseRSSRead(feed *gofeed.Feed, limit int) []ReadEntry {
 
 	for _, fi := range feed.Items {
 		// Get the user rating if we can
-		userRatingGot, err := strconv.ParseFloat(fi.Custom["user_rating"], 64)
 		var userRating *float64
+		userRatingGot, err := strconv.ParseFloat(fi.Custom["user_rating"], 64)
 		if err != nil {
 			userRating = nil
 		} else {

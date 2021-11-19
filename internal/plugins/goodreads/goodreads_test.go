@@ -25,3 +25,10 @@ func TestParseRecentlyRead(t *testing.T) {
 	require.Equal(t, float64(5), *first.UserRating)
 	require.Equal(t, "https://www.goodreads.com/review/show/3262380767?utm_medium=api&utm_source=rss", first.Link)
 }
+
+func TestExample(t *testing.T) {
+	p := plug{}
+	examples := p.Examples()
+
+	require.Contains(t, examples, "goodreadsRecentlyRead")
+}
