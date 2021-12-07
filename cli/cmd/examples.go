@@ -29,7 +29,7 @@ import (
 	"github.com/spf13/cobra"
 )
 
-// examplesCmd represents the examples command
+// examplesCmd represents the examples command.
 var examplesCmd = &cobra.Command{
 	Use:     "examples",
 	Short:   "Print plugin examples",

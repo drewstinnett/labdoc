@@ -14,7 +14,7 @@ import (
 
 type plug struct{}
 
-// TemplateFuncMap returns a map of functions to be used in templates
+// TemplateFuncMap returns a map of functions to be used in templates.
 func (p *plug) TemplateFunctions() (template.FuncMap, error) {
 	templ := template.FuncMap{
 		"recentlyRead": recentlyRead,
@@ -22,7 +22,7 @@ func (p *plug) TemplateFunctions() (template.FuncMap, error) {
 	return templ, nil
 }
 
-// Examples returns a list of example entries
+// Examples returns a list of example entries.
 func (p *plug) Examples() string {
 	return `## Recently Read Books
 
@@ -31,7 +31,7 @@ func (p *plug) Examples() string {
 {{- end }`
 }
 
-// recentlyRead returns a list of recently read books
+// recentlyRead returns a list of recently read books.
 func recentlyRead(limit int) ([]ReadEntry, error) {
 	user := os.Getenv("GOODREADS_RSSUSERID")
 	if user == "" {
@@ -52,7 +52,7 @@ func recentlyRead(limit int) ([]ReadEntry, error) {
 	return items, nil
 }
 
-// ReadEntry is a single entry from the RSS feed
+// ReadEntry is a single entry from the RSS feed.
 type ReadEntry struct {
 	Title       string
 	Link        string
@@ -63,7 +63,7 @@ type ReadEntry struct {
 	// DateAdded   *time.Time
 }
 
-// parseRSSRead parses the RSS feed and returns a list of ReadEntry
+// parseRSSRead parses the RSS feed and returns a list of ReadEntry.
 func parseRSSRead(feed *gofeed.Feed, limit int) []ReadEntry {
 	entries := make([]ReadEntry, 0, limit)
 

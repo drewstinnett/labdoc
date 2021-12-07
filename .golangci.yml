@@ -1,10 +1,16 @@
 ---
 linters:
   enable:
+    - godot
+    - deadcode
+    - errcheck
     - thelper
     - gofumpt
+    - gosimple
+    - govet
     - tparallel
     - unconvert
     - unparam
     - wastedassign
     - revive
+    - predeclared
