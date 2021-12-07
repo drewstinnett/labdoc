@@ -33,7 +33,7 @@ import (
 
 var cfgFile string
 
-// rootCmd represents the base command when called without any subcommands
+// rootCmd represents the base command when called without any subcommands.
 var rootCmd = &cobra.Command{
 	Use:   "labdoc",
 	Short: "Generate a personalized README.md for GitLab from a template",
